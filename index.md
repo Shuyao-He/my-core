@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## 心中的天地
 
-You can use the [editor on GitHub](https://github.com/Shuyao-He/my-core/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+常常觉得如果生活中的一切都必然要扯上现实中的交流，会让我感到疲于奔命。我本质上是个极其慵懒的人，习惯于进行各种没有目的也不希望被知道的内心活动。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我希望自己的内心是独属于我的一座花园，曲径通幽处有的是大自在。
 
-### Markdown
+比如，一天中一定要有的那些远眺的时刻悠闲的时刻，一定要听的那点并不经典也未必很好听、但会让我想起某些故事的歌，抄点什么东西练练字，漫无目的看些半懂不懂的书。这些东西或许削弱了我在提升成绩或者完成某项工作时的战斗力，但是它们似乎才是我能感觉到的那部分“我”。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Shuyao-He/my-core/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+是的，我看不见自己，也没有非要看见自己不可，但是心中的天地让我知道我这个意识的主体是健旺地存在着的。
